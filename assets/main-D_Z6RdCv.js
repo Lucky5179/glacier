@@ -32007,7 +32007,7 @@ const RE = { render: EE },
         {
           icon: a4,
           title: "Uniswap v3<br />(Ethereum)",
-          link: "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0xcomingsoon",
+          link: "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0xDAAe70dc84d8845E17e88EA3cA37010f9DC6f0f4",
         },
         {
           icon: f4,
@@ -32017,7 +32017,7 @@ const RE = { render: EE },
         {
           icon: Pd,
           title: "Dexscreener (Ethereum)",
-          link: "https://dexscreener.com/ethereum/0xcomingsoon",
+          link: "https://dexscreener.com/ethereum/0xDAAe70dc84d8845E17e88EA3cA37010f9DC6f0f4",
         },
       ];
       return (e, i) => (
