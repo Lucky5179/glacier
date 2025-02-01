@@ -32012,7 +32012,7 @@ const RE = { render: EE },
         {
           icon: f4,
           title: "DexTools<br />(Ethereum)",
-          link: "https://dextools.io/",
+          link: "https://www.dextools.io/app/en/ether/pair-explorer/0x3f1400a0f5ad794813bad8641a032ee154ae464c?t=1738425511303",
         },
         {
           icon: Pd,
