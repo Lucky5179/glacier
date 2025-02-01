@@ -844,7 +844,7 @@ const ss = { render: rs },
                 title: "Documentation",
                 desc: "Everything about Glacier",
                 icon: j(dr),
-                href: "http://docs.glacier.io/",
+                href: "https://docs.glacierai.org/",
               },
               {
                 title: "Dashboard",
@@ -1345,7 +1345,7 @@ const Zs = { render: Qs },
           {
             title: "Resources",
             items: [
-              { title: "Documentation", href: "http://docs.glacier.io/" },
+              { title: "Documentation", href: "https://docs.glacierai.org/" },
               { title: "Dashboard", href: "/dashboard" },
             ],
           },
