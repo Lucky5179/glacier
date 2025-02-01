@@ -407,10 +407,10 @@ const l_ = (r) => (Ct("data-v-40460f83"), (r = r()), Tt(), r),
         pa(async () => {
           const e = await r_();
           (t.value[0].value = "10Billion+"),
-            (t.value[1].value = e.txOnChain.toLocaleString("en-us")),
-            (t.value[2].value = e.totalCollections.toLocaleString("en-us")),
-            (t.value[3].value = e.totalDatasets.toLocaleString("en-us")),
-            (t.value[4].value = e.totalAddress.toLocaleString("en-us"));
+            (t.value[1].value = "-----"),
+            (t.value[2].value = "-----"),
+            (t.value[3].value = "-----"),
+            (t.value[4].value = "-----");
         }),
         (e, i) => (
           B(),
