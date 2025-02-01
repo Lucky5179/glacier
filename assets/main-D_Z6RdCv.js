@@ -106,8 +106,8 @@ const l_ = (r) => (Ct("data-v-40460f83"), (r = r()), Tt(), r),
     3
   ),
   C_ = { class: "flex items-center justify-center gap-3 mt-8" },
-  T_ = { href: "https://node.glacier.io/", target: "_blank", class: "flex" },
-  M_ = { href: "https://docs.glacier.io/", target: "_blank", class: "flex" },
+  T_ = { href: "https://app.glacierai.org/", target: "_blank", class: "flex" },
+  M_ = { href: "https://docs.glacierai.org/", target: "_blank", class: "flex" },
   D_ = Er(() =>
     b(
       "div",
@@ -734,7 +734,7 @@ const w1 = ft(g1, [
   ),
   P1 = { class: "flex items-center justify-center gap-3 mt-5" },
   k1 = {
-    href: "https://node.glacier.io/",
+    href: "https://app.glacierai.org/",
     target: "_blank",
     class: "flex",
   },
@@ -987,7 +987,7 @@ const w1 = ft(g1, [
   ),
   S2 = { class: "flex items-center justify-center gap-3 mt-5" },
   C2 = {
-    href: "https://node.glacier.io/",
+    href: "https://app.glacierai.org/",
     target: "_blank",
     class: "flex",
   },
@@ -31304,10 +31304,10 @@ const Ld = { render: yP },
     )
   ),
   ak = { class: "flex items-center justify-center gap-3 mt-5" },
-  ok = { href: "https://node.glacier.io/", target: "_blank", class: "flex" },
+  ok = { href: "https://app.glacierai.org/", target: "_blank", class: "flex" },
   sk = Rr(() => b("span", null, "Run Your Nodes", -1)),
   lk = {
-    href: "https://docs.glacier.io/getting-started/glacier-nodes/run-mainnet-nodes/nodes-portal-tutorial",
+    href: "https://docs.glacierai.org/",
     target: "_blank",
     class: "flex",
   },
@@ -31893,10 +31893,10 @@ const RE = { render: EE },
     class:
       "flex flex-col md:flex-row items-center justify-center gap-3 mt-5 mb-24",
   },
-  ZE = { href: "https://node.glacier.io/", target: "_blank", class: "flex" },
+  ZE = { href: "https://app.glacierai.org/", target: "_blank", class: "flex" },
   qE = sn(() => b("span", null, "Run Your Nodes", -1)),
   jE = {
-    href: "https://docs.glacier.io/getting-started/glacier-nodes/run-mainnet-nodes/nodes-portal-tutorial",
+    href: "https://docs.glacierai.org/",
     target: "_blank",
     class: "flex",
   },

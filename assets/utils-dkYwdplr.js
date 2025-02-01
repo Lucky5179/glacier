@@ -757,7 +757,7 @@ const ss = { render: rs },
     class: "text-gray-400 hover:text-white",
   },
   bs = { class: "w-40 hidden md:flex justify-end" },
-  xs = { href: "https://node.glacier.io/", target: "_blank" },
+  xs = { href: "https://app.glacierai.org/", target: "_blank" },
   vs = we(() => l("span", null, "Glacier Nodes", -1)),
   As = we(() =>
     l(
@@ -1309,7 +1309,7 @@ const Zs = { render: Qs },
     )
   ),
   lo = {
-    href: "https://node.glacier.io/",
+    href: "https://app.glacierai.org/",
     target: "_blank",
     class: "inline-flex mt-5",
   },
